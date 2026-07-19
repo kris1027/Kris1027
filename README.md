@@ -15,7 +15,7 @@
 
 ```typescript
 const krzysztof = {
-  location: "Cracow, Poland",
+  location: "Kraków, Poland",
   roles: ["Frontend Developer", "Backend Developer", "Mobile Developer"],
   currentFocus: "Building scalable web applications with React & NestJS",
 };
@@ -46,9 +46,9 @@ const krzysztof = {
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kris1027&theme=github_dark" height="165"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kris1027&theme=github_dark" height="165"/>
