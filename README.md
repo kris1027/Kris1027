@@ -4,8 +4,8 @@
 
 <br />
 
-<a href="https://www.zaruszaj.pl/o-mnie">Portfolio ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254">LinkedIn ↗</a>
+<a href="https://www.zaruszaj.pl/o-mnie"><img src="./assets/portfolio.svg" width="180" height="52" alt="Visit my portfolio" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krzysztof-obarzanek-6b8803254"><img src="./assets/linkedin.svg" width="180" height="52" alt="Connect on LinkedIn" /></a>
 
 </div>
