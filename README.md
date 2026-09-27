@@ -1,10 +1,9 @@
 <div align="center">
 
-<sub>KRAKÓW, POLAND</sub>
+<img src="./assets/banner.svg" width="100%" alt="Krzysztof Obarzanek — Frontend at heart. Backend and mobile too. Kraków, Poland." />
 
-# Krzysztof Obarzanek
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1800&color=8B8BF5&center=true&vCenter=true&width=440&height=45&lines=Frontend+at+heart.;Backend+and+mobile+too." alt="Frontend at heart. Backend and mobile too." />
+<br />
+<br />
 
 <p>I focus on frontend development, building thoughtful web interfaces.<br />I also work across backend and mobile to bring complete products to life.</p>
 
